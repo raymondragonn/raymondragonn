@@ -12,6 +12,7 @@
 
 ## 🚀 Top Technologies & Tools
 
+### Languages & Frameworks
 [![C Badge](https://img.shields.io/badge/-C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=00599C)](#)
 [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
 [![Java Badge](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ED8B00)](#)
@@ -21,20 +22,26 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
 [![NodeJS Badge](https://img.shields.io/badge/-NodeJS-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+### Databases & Version Control
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=black&logo=github&logoColor=white)](#)
+
+### Development Tools
 [![VS Code Badge](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](#)
 [![Postman Badge](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=FF6C37)](#)
-[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
-[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)](#)
 [![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&labelColor=black&logo=jira&logoColor=0052CC)](#)
-[![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)](#)
 [![Laragon Badge](https://img.shields.io/badge/-Laragon-0E83CD?style=for-the-badge&labelColor=black&logo=laragon&logoColor=0E83CD)](#)
 [![OBS Studio Badge](https://img.shields.io/badge/-OBS%20Studio-302E31?style=for-the-badge&labelColor=black&logo=obs-studio&logoColor=white)](#)
+
+### Collaboration & Design
+[![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
 [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&labelColor=black&logo=notion&logoColor=white)](#)
 [![Trello Badge](https://img.shields.io/badge/-Trello-026AA7?style=for-the-badge&labelColor=black&logo=trello&logoColor=026AA7)](#)
+[![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&labelColor=black&logo=discord&logoColor=5865F2)](#)
+[![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=arduino&logoColor=00979D)](#)
 
 ## 📫 Connect with me
 <div align="left">
