@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00B8D4&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Ray+Mondrag%C3%B3n+%F0%9F%91%8B"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1200&color=FF6F61&center=true&vCenter=true&width=500&lines=Hello%2C+Welcome+to+my+Profile!;Web+Developer+%7C+Problem+Solver;Creating+Projects+with+Passion+%F0%9F%92%99"/>
 </div>
+
 
 ## 👨‍💻 About Me
 - 🚀 Aspiring Software Developer with a passion for clean code.
